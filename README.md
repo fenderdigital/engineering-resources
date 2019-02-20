@@ -1,6 +1,6 @@
 # Fender Digital Engineering Resources
 
-link to other readmes for:
+A collection of resources we find valuable in developing software.
 
 * [blogs](blogs.md)
 * [email lists](email-lists.md)
