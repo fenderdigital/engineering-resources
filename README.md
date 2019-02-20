@@ -2,7 +2,7 @@
 
 link to other readmes for:
 
-* blogs
-* email lists
-* podcasts (subscriptions & specififc episodes)
-* open source projects
+* [blogs](blogs.md)
+* [email lists](email-lists.md)
+* [podcasts](podcasts.md)
+* [open source projects](open-source.md)
