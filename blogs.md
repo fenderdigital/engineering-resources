@@ -11,7 +11,7 @@ A collection of blogs that we have found useful, including some specific posts.
 * [IOpipe](https://read.iopipe.com)
 * [Epsagon](https://epsagon.com/blog/)
 
-## DymnamoDB
+## DynamoDB
 
 * [Z-Order Indexing for Multifaceted Queries in Amazon DynamoDB](https://aws.amazon.com/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-1/)
 
