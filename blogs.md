@@ -5,6 +5,7 @@ A collection of blogs that we have found useful, including some specific posts.
 ## Serverless & AWS
 
 * [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+* [AWS Developer Blog](https://aws.amazon.com/blogs/developer/)
 * [A Cloud Guru](https://read.acloud.guru)
 * [The Symphonium](https://blog.symphonia.io)
 * [The Burning Monk](https://theburningmonk.com)
