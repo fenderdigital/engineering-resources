@@ -1,4 +1,4 @@
-# Blogs
+# Blogs & Articles
 
 A collection of blogs that we have found useful, including some specific posts.
 
@@ -20,6 +20,10 @@ A collection of blogs that we have found useful, including some specific posts.
 
 * [Golang Weekly](https://golangweekly.com)
 * [The Go Blog](https://blog.golang.org)
+
+### Articles
+
+* [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ## General Engineering
 
