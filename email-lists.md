@@ -9,3 +9,7 @@ Collection of email lists that we find useful.
 ## Golang
 
 * [Golang Weekly](https://golangweekly.com)
+
+## Serverless
+
+* [Jeremy Daly's off-by-none](https://www.jeremydaly.com/)
